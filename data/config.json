@@ -1,0 +1,114 @@
+{
+	"demo1": [
+		{
+			"file": null,
+			"name": "Silence",
+			"volume": 1.0,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 0,
+			"fade_out_ms": 0
+		},
+		{
+			"file": "BaharuthAmbientLoop.ogg",
+			"name": "Ambient Loop - Baharuth",
+			"volume": 0.5,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 1000,
+			"fade_out_ms": 10000
+		},
+		{
+			"file": null,
+			"name": "Silence",
+			"volume": 1.0,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 0,
+			"fade_out_ms": 0
+		},
+		{
+			"file": "lopingsting.ogg",
+			"name": "Loping Sting - Kevin MacLeod",
+			"volume": 0.8,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 500,
+			"fade_out_ms": 2000
+		},
+		{
+			"file": null,
+			"name": "Silence",
+			"volume": 1.0,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 0,
+			"fade_out_ms": 0
+		},
+		{
+			"file": "igotastick.ogg",
+			"name": "I got a stick! - Kevin MacLeod",
+			"volume": 0.8,
+			"loop": false,
+			"end_ms": 2300,
+			"fade_in_ms": 0,
+			"fade_out_ms": 200
+		},
+		{
+			"file": "spacejazz.ogg",
+			"name": "Space Jazz - Kevin MacLeod",
+			"volume": 0.9,
+			"loop": false,
+			"end_ms": null,
+			"fade_in_ms": 3000,
+			"fade_out_ms": 1000
+		},
+		{
+			"file": null,
+			"name": "Silence",
+			"volume": 1.0,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 0,
+			"fade_out_ms": 0
+		}
+	],
+	"demo2": [
+		{
+			"file": null,
+			"name": "Silence",
+			"volume": 1.0,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 0,
+			"fade_out_ms": 0
+		},
+		{
+			"file": "GuzhengCity.ogg",
+			"name": "Guzheng City - Kevin MacLeod",
+			"volume": 1.0,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 2000,
+			"fade_out_ms": 2000
+		},
+		{
+			"file": "StrengthOfTheTitans.ogg",
+			"name": "Strength of the Titans - Kevin MacLeod",
+			"volume": 1.0,
+			"loop": false,
+			"end_ms": null,
+			"fade_in_ms": 2000,
+			"fade_out_ms": 2000
+		},
+		{
+			"file": null,
+			"name": "Silence",
+			"volume": 1.0,
+			"loop": true,
+			"end_ms": null,
+			"fade_in_ms": 0,
+			"fade_out_ms": 0
+		}
+	]
+}
